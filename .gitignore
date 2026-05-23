@@ -106,6 +106,7 @@ wiki/graph-view.html
 # ---------------------------------------------------------------------------
 .obsidian/
 .claude/scheduled_tasks.lock
+.understand-anything/
 
 # Obsidian "untitled canvas" debris (locale-aware: en + zh)
 **/Untitled*.canvas
